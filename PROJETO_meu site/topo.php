@@ -3,7 +3,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Meu Site</title>
-    <link rel="stylesheet" href="style.css"> <!-- Opcional para adicionar estilo -->
+    <link rel="stylesheet" href="site_styles.css"> <!-- Opcional para adicionar estilo -->
 </head>
 <body>
 <header>
