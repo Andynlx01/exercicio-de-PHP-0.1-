@@ -2,8 +2,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu Site</title>
-    <link rel="shortcut icon" href="https://i.pinimg.com/736x/16/57/72/1657723c025259fe330e04f3e43b642c.jpg" type="image/x-icon">
+    <title>Aesthetic life</title>
+    <link rel="shortcut icon" href="https://i.pinimg.com/736x/4a/0f/57/4a0f57b9d7b2ba918f59049200aa9c37.jpg" type="image/x-icon">
     <link rel="stylesheet" href="site_styles.css"> <!-- Opcional para adicionar estilo -->
 </head>
 

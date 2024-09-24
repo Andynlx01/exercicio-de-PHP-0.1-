@@ -7,7 +7,7 @@
 }
 
 body {
-    background: url(https://i.pinimg.com/564x/a5/5e/40/a55e40f3a094eb3637e7305de500b855.jpg);
+    background: url(https://i.pinimg.com/originals/43/44/e3/4344e369f8b1dd26e1c6573b88bc94f5.gif);
     color: #333;
     line-height: 1.6;
     padding: 20px;
@@ -15,8 +15,8 @@ body {
 
 /* Cabeçalho */
 header {
-    background-color: #fae8e8;
-    color: #ffa3bc;
+    background-color: #fee2bd;
+    color: #eb0b46;
     padding: 20px;
     text-align: center;
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
@@ -34,7 +34,7 @@ h1{
 
 /* Menu */
 nav {
-    background-color: #fae8e8; /* rosinha clarinho*/
+    background-color: #eb0b46; /* rosinha clarinho*/
     padding: 15px;
     text-align: center;
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
@@ -62,7 +62,7 @@ nav ul li a:hover {
 
 /* Conteúdo Principal */
 main {
-    background-color: white;
+    background-color: #fff8ea;
     padding: 30px;
     margin-top: 20px;
     border-radius: 10px;
@@ -70,19 +70,20 @@ main {
 }
 
 main h2 {
-    color: #f47f9c    ;
+    color: #eb0b46    ;
     font-size: 2em;
     margin-bottom: 20px;
 }
 
 h2{
-    text-shadow: 2px 2px #421729a4;
+    text-shadow: 2px 2px #4e0a1ba4;
 }
 
 
 main ul {
     margin-top: 20px;
     padding-left: 20px;
+    color:#eb0b46;
 }
 
 main ul li {
@@ -157,6 +158,6 @@ a {
 }
 
 a:hover {
-    color: #f47f9c;
+    color: #fee2bd;
     text-decoration: none;
 }

@@ -13,14 +13,15 @@ include_once 'menu.php';
 ?>
 
 <main>
-    <h2>Nossos Serviços</h2>
-    <p>Aqui estão os serviços que oferecemos. Clique em um serviço para saber mais detalhes.</p>
+    <h2>Nossas Estéticas</h2>
+    <p>Aqui estão as Estéticas que temos! Clique em uma para mais informações e desfrute!🥰🥰 </p>
     
     <ul>
-        <li><a href="desenvolvimento_web.php">Desenvolvimento Web</a></li>
-        <li><a href="design_grafico.php">Design Gráfico</a></li>
-        <li><a href="marketing_digital.php">Marketing Digital</a></li>
-        <li><a href="consultoria_tecnologica.php">Consultoria Tecnológica</a></li>
+        <li><a href="?pg=CottageCore">CottageCore</a></li>
+        <li><a href="?pg=dreamcore">DreamCore</a></li>
+        <li><a href="?pg=GothCore">GothCore</a></li>
+        <li><a href="?pg=NatureCore">NatureCore</a></li>
+
     </ul>
 </main>
 
