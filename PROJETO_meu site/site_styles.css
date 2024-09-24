@@ -3,11 +3,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Arial, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 body {
-    background-color: #f4f2f8; /* Tom claro para o fundo */
+    background: url(https://i.pinimg.com/564x/a5/5e/40/a55e40f3a094eb3637e7305de500b855.jpg);
     color: #333;
     line-height: 1.6;
     padding: 20px;
@@ -65,10 +65,15 @@ main {
 }
 
 main h2 {
-    color: #5c2b82;
+    color: #f3c0c5    ;
     font-size: 2em;
     margin-bottom: 20px;
 }
+
+h2{
+    text-shadow: 2px 2px #421729a4;
+}
+
 
 main ul {
     margin-top: 20px;
