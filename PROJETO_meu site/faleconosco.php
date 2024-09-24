@@ -13,8 +13,8 @@ include_once 'menu.php';
 ?>
 
 <main>
-    <h2>Fale Conosco</h2>
-    <form action="envia_mensagem.php" method="POST">
+    <h2>Fale Conosco💬</h2>
+    <form action="enviar_mensagem.php" method="POST">
         <label for="nome">Nome:</label>
         <input type="text" id="nome" name="nome" required><br><br>
 

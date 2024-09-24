@@ -15,8 +15,8 @@ body {
 
 /* Cabeçalho */
 header {
-    background-color: #5c2b82; /* Roxo escuro */
-    color: white;
+    background-color: #fae8e8;
+    color: #ffa3bc;
     padding: 20px;
     text-align: center;
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
@@ -27,9 +27,14 @@ header h1 {
     margin-bottom: 10px;
 }
 
+
+h1{
+    text-shadow: 3px 3px #ffff;
+}
+
 /* Menu */
 nav {
-    background-color: #7743a6; /* Roxo médio */
+    background-color: #fae8e8; /* rosinha clarinho*/
     padding: 15px;
     text-align: center;
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
@@ -65,7 +70,7 @@ main {
 }
 
 main h2 {
-    color: #f3c0c5    ;
+    color: #f47f9c    ;
     font-size: 2em;
     margin-bottom: 20px;
 }
@@ -97,9 +102,10 @@ main ul li a:hover {
 
 /* Rodapé */
 footer {
-    background-color: #5c2b82; /* Roxo escuro */
-    color: white;
+    background-color: #ffdfdf; /* tom claro de rosa */
+    color: #f47f9c;
     text-align: center;
+    text-shadow: #421729a4;
     padding: 10px;
     margin-top: 40px;
     border-radius: 0 0 10px 10px;
@@ -108,6 +114,7 @@ footer {
 footer p {
     font-size: 1em;
 }
+
 
 /* Formulários */
 form {
@@ -131,7 +138,7 @@ form textarea {
 }
 
 form input[type="submit"] {
-    background-color: #7743a6;
+    background-color: #f5668a;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -141,15 +148,15 @@ form input[type="submit"] {
 }
 
 form input[type="submit"]:hover {
-    background-color: #a164cf;
+    background-color: #e22e5b;
 }
 
 /* Links de navegação */
 a {
-    color: #7743a6;
+    color: #e22e5b;
 }
 
 a:hover {
-    color: #a164cf;
+    color: #f47f9c;
     text-decoration: none;
 }
