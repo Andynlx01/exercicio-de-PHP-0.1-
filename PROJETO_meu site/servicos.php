@@ -16,7 +16,7 @@ include_once 'menu.php';
     <h2>Nossas Estéticas</h2>
     <p>Aqui estão as Estéticas que temos! Clique em uma para mais informações e desfrute!🥰🥰 </p>
     
-    <ul>
+    <ul class="lista">
         <li><a href="?pg=CottageCore">CottageCore</a></li>
         <li><a href="?pg=dreamcore">DreamCore</a></li>
         <li><a href="?pg=GothCore">GothCore</a></li>
@@ -25,6 +25,9 @@ include_once 'menu.php';
         <li><a href="?pg=darkacademia">Dark Academia</a></li>
         <li><a href="?pg=lightacademia">Light Academia</a></li>
         <li><a href="?pg=Y2K">Y2K</a></li>
+        <li><a href="?pg=femmefatalle">Femme Fatalle</a></li>
+        <li><a href="?pg=princessCore">PrincessCore</a></li>
+        <li><a href="?pg=wonderland">WonderlandCore</a></li>
 
     </ul>
 </main>
