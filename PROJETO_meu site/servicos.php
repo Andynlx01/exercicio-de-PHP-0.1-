@@ -21,10 +21,10 @@ include_once 'menu.php';
         <li><a href="?pg=dreamcore">DreamCore</a></li>
         <li><a href="?pg=GothCore">GothCore</a></li>
         <li><a href="?pg=NatureCore">NatureCore</a></li>
-        <li><a href="?pg=CottageCore">CottageCore</a></li>
-        <li><a href="?pg=dreamcore">DreamCore</a></li>
-        <li><a href="?pg=GothCore">GothCore</a></li>
-        <li><a href="?pg=NatureCore">NatureCore</a></li>
+        <li><a href="?pg=oldmoney">Old Money</a></li>
+        <li><a href="?pg=darkacademia">Dark Academia</a></li>
+        <li><a href="?pg=lightacademia">Light Academia</a></li>
+        <li><a href="?pg=Y2K">Y2K</a></li>
 
     </ul>
 </main>
