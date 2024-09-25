@@ -21,6 +21,10 @@ include_once 'menu.php';
         <li><a href="?pg=dreamcore">DreamCore</a></li>
         <li><a href="?pg=GothCore">GothCore</a></li>
         <li><a href="?pg=NatureCore">NatureCore</a></li>
+        <li><a href="?pg=CottageCore">CottageCore</a></li>
+        <li><a href="?pg=dreamcore">DreamCore</a></li>
+        <li><a href="?pg=GothCore">GothCore</a></li>
+        <li><a href="?pg=NatureCore">NatureCore</a></li>
 
     </ul>
 </main>
