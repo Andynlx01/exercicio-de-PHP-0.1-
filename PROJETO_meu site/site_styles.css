@@ -45,9 +45,33 @@ nav ul {
 }
 
 .lista{
-    display: flex;
+/* Estilo para a lista de serviços */
 
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Duas colunas */
+    gap: 10px; /* Espaçamento entre os itens */
+    list-style: none; /* Remove os marcadores padrão da lista */
+    padding: 0;
 }
+
+.lista-servicos li {
+    font-size: 1em;
+    margin-bottom: 10px; /* Espaçamento entre os itens */
+}
+
+.lista-servicos li a {
+    color: #7743a6; /* Cor roxa para os links */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.lista-servicos li a:hover {
+    color: #a164cf; /* Cor mais clara ao passar o mouse */
+    text-decoration: underline; /* Sublinhado no hover */
+}
+
+
+
 
 nav ul li {
     display: inline;
