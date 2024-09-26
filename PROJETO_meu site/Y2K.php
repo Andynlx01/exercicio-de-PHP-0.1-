@@ -99,35 +99,35 @@
         </div>
 
         <div class="imagem-item">
-            <img src="imagens/desenvolvimento_web3_thumb.jpg" alt="foto 14">
+            <img src="https://i.pinimg.com/236x/63/da/91/63da9190188396b478276f923c0ea988.jpg" alt="foto 14">
             <a href="imagens/desenvolvimento_web3.jpg" download="y2k_wallpaper08.jpg">
                 <button class="botao-baixar">Baixar Imagem</button>
             </a>
         </div>
 
         <div class="imagem-item">
-            <img src="imagens/desenvolvimento_web3_thumb.jpg" alt="foto 15">
+            <img src="https://i.pinimg.com/474x/f8/9b/4d/f89b4d1551f63d21be3d55164ca1a331.jpg" alt="foto 15">
             <a href="imagens/desenvolvimento_web3.jpg" download="y2k_wallpaper09.jpg">
                 <button class="botao-baixar">Baixar Imagem</button>
             </a>
         </div>
 
         <div class="imagem-item">
-            <img src="imagens/desenvolvimento_web3_thumb.jpg" alt="foto 16">
+            <img src="https://i.pinimg.com/736x/ca/07/77/ca0777c84bce23ad53327c64010668a2.jpg" alt="foto 16">
             <a href="imagens/desenvolvimento_web3.jpg" download="y2k_wallpaper10.jpg">
                 <button class="botao-baixar">Baixar Imagem</button>
             </a>
         </div>
 
         <div class="imagem-item">
-            <img src="imagens/desenvolvimento_web3_thumb.jpg" alt="foto 17">
+            <img src="https://i.pinimg.com/736x/6e/bb/27/6ebb278b51aa3ea3072f7bf397591362.jpg" alt="foto 17">
             <a href="imagens/desenvolvimento_web3.jpg" download="y2k_wallpaper11.jpg">
                 <button class="botao-baixar">Baixar Imagem</button>
             </a>
         </div>
 
         <div class="imagem-item">
-            <img src="imagens/desenvolvimento_web3_thumb.jpg" alt="foto 18">
+            <img src="https://i.pinimg.com/474x/b9/d5/fe/b9d5fe63cf29aeafb3b8e4d0ff3d446e.jpg" alt="foto 18">
             <a href="imagens/desenvolvimento_web3.jpg" download="y2k_wallpaper12.jpg">
                 <button class="botao-baixar">Baixar Imagem</button>
             </a>
