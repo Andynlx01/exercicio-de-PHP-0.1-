@@ -136,5 +136,5 @@
         <!-- Adicionar mais imagens conforme necessário -->
     </div>
 
-    <a href="servicos.php">Voltar para a lista</a>
+    ><a href="?pg=servicos">Voltar</a>
 </main>
