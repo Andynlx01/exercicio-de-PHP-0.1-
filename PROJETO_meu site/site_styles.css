@@ -32,16 +32,6 @@ h1{
     text-shadow: 3px 3px #ffff;
 }
 
-/* Container principal */
-.container {
-    max-width: 1200px; /* Largura máxima do conteúdo do site */
-    margin: 40px auto; /* Centraliza o conteúdo horizontalmente e cria uma margem superior/inferior */
-    padding: 20px;
-    border: 8px solid #5c2b82; /* Borda roxa ao redor do site */
-    background-color: white; /* Cor de fundo do conteúdo principal */
-    border-radius: 12px; /* Arredondar os cantos */
-    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1); /* Sombra sutil para destaque */
-}
 /* Menu */
 nav {
     background-color: #eb0b46; /* rosinha clarinho*/

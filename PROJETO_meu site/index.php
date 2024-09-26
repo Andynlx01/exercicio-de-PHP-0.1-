@@ -8,7 +8,6 @@
 </head>
 <body>
     <!-- página principal (index)-->
-<div class="container">
     <?php
     include_once ('topo.php');
     include_once ('menu.php');
