@@ -1,7 +1,7 @@
 
 <main>
-    <h2>Y2K</h2>
-    <p>Veja abaixo algumas estéticas de Y2K e divirta-se!</p>
+    <h2>Femme Fatalle</h2>
+    <p>Veja abaixo algumas estéticas de Femme Fatalle e divirta-se!</p>
 
     <div class="galeria">
         <!-- Primeira Imagem -->

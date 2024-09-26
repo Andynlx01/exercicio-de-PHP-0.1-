@@ -1,7 +1,7 @@
 
 <main>
-    <h2>Y2K</h2>
-    <p>Veja abaixo algumas estéticas de Y2K e divirta-se!</p>
+    <h2>Wonderland/ AliceCore</h2>
+    <p>Veja abaixo algumas estéticas de Wonderland/ AliceCore e divirta-se!</p>
 
     <div class="galeria">
         <!-- Primeira Imagem -->

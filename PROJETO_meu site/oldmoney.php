@@ -1,7 +1,7 @@
 
 <main>
-    <h2>Y2K</h2>
-    <p>Veja abaixo algumas estéticas de Y2K e divirta-se!</p>
+    <h2>Old Money</h2>
+    <p>Veja abaixo algumas estéticas de Old Money e divirta-se!</p>
 
     <div class="galeria">
         <!-- Primeira Imagem -->
