@@ -18,7 +18,7 @@ include_once 'menu.php';
     
     <ul class="lista">
         <li><a href="?pg=CottageCore">CottageCore</a></li>
-        <li><a href="?pg=dreamcore">DreamCore</a></li>
+        <li><a href="?pg=purplegold">Purple and Gold</a></li>
         <li><a href="?pg=GothCore">GothCore</a></li>
         <li><a href="?pg=NatureCore">NatureCore</a></li>
         <li><a href="?pg=oldmoney">Old Money</a></li>
