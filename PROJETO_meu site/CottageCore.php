@@ -93,42 +93,42 @@
 
         <div class="imagem-item">
             <img src="imagens/desenvolvimento_web3_thumb.jpg" alt="foto 13">
-            <a href="imagens/desenvolvimento_web3.jpg" download="desenvolvimento_web_projeto3.jpg">
+            <a href="imagens/desenvolvimento_web3.jpg" download="cottage_icon07.jpg">
                 <button class="botao-baixar">Baixar Imagem</button>
             </a>
         </div>
 
         <div class="imagem-item">
             <img src="imagens/desenvolvimento_web3_thumb.jpg" alt="foto 14">
-            <a href="imagens/desenvolvimento_web3.jpg" download="desenvolvimento_web_projeto3.jpg">
+            <a href="imagens/desenvolvimento_web3.jpg" download="cottage_icon08.jpg">
                 <button class="botao-baixar">Baixar Imagem</button>
             </a>
         </div>
 
         <div class="imagem-item">
             <img src="imagens/desenvolvimento_web3_thumb.jpg" alt="foto 15">
-            <a href="imagens/desenvolvimento_web3.jpg" download="desenvolvimento_web_projeto3.jpg">
+            <a href="imagens/desenvolvimento_web3.jpg" download="cottage_icon09.jpg">
                 <button class="botao-baixar">Baixar Imagem</button>
             </a>
         </div>
 
         <div class="imagem-item">
             <img src="imagens/desenvolvimento_web3_thumb.jpg" alt="foto 16">
-            <a href="imagens/desenvolvimento_web3.jpg" download="desenvolvimento_web_projeto3.jpg">
+            <a href="imagens/desenvolvimento_web3.jpg" download="cottage_icon10.jpg">
                 <button class="botao-baixar">Baixar Imagem</button>
             </a>
         </div>
 
         <div class="imagem-item">
             <img src="imagens/desenvolvimento_web3_thumb.jpg" alt="foto 17">
-            <a href="imagens/desenvolvimento_web3.jpg" download="desenvolvimento_web_projeto3.jpg">
+            <a href="imagens/desenvolvimento_web3.jpg" download="cottage_icon11.jpg">
                 <button class="botao-baixar">Baixar Imagem</button>
             </a>
         </div>
 
         <div class="imagem-item">
             <img src="imagens/desenvolvimento_web3_thumb.jpg" alt="foto 18">
-            <a href="imagens/desenvolvimento_web3.jpg" download="desenvolvimento_web_projeto3.jpg">
+            <a href="imagens/desenvolvimento_web3.jpg" download="cottage_icon12.jpg">
                 <button class="botao-baixar">Baixar Imagem</button>
             </a>
         </div>
@@ -136,5 +136,5 @@
         <!-- Adicionar mais imagens conforme necessário -->
     </div>
 
-    <a href="servicos.php">Voltar para a lista de serviços</a>
+    ><a href="?pg=servicos">Voltar</a>
 </main>
