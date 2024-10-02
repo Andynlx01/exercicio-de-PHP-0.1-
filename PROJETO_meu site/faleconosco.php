@@ -1,7 +1,7 @@
 
-<main class="form-container">
+<main>
     <h2>Fale Conosco💬</h2>
-    <form action="enviar_mensagem.php" method="POST" class="form-fale-conosco">
+    <form action="enviar_mensagem.php" method="POST">
         <label for="nome">Nome:</label>
         <input type="text" id="nome" name="nome" required><br><br>
 
